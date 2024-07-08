@@ -1,0 +1,7 @@
+"Phrases"
+{
+	"Toggled RGB"
+	{
+		"tr"			"{1} adlı oyuncunun gökkuşağı değiştirildi."
+	}
+}

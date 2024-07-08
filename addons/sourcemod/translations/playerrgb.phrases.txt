@@ -1,0 +1,15 @@
+"Phrases"
+{
+    "Activated RGB"
+    {
+        "#format"   "{1:N}"
+        "en"        "{1} has activated RGB mode."
+        "es"        "{1} ha activado el modo RGB."
+    }
+    "Deactivated RGB"
+    {
+        "#format"   "{1:N}"
+        "en"        "{1} has deactivated RGB mode."
+        "es"        "{1} ha desactivado el modo RGB."
+    }
+}
